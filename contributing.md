@@ -12,6 +12,11 @@ An entry must clear **all** of these:
 4. **Alive.** Meaningful activity in the last ~12 months, and not archived.
 5. **Actually usable.** A readme that explains what it does and how to run it. Not a stub, not a placeholder.
 
+How the bar was applied to the first 62 entries — the GitHub sweep, the filter matrix, and
+what the licence check actually turned up — is written up in
+[Auditing an Open-Source Ecosystem](https://www.cloudapp.dev/auditing-an-open-source-ecosystem-licence-check).
+Useful if you want to check the reasoning, or run the same pass over another ecosystem.
+
 ## What does not belong here
 
 - **Source-available licenses** — BSL, FSL, SSPL, Elastic License, "open core" where the core is not open. These are not open source, and blurring that line is how a curated list stops being useful.
